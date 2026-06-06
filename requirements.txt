@@ -1,0 +1,10 @@
+yfinance
+hmmlearn
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+requests
+curl_cffi
+python-dotenv

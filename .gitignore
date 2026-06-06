@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Generated outputs
+price_data_cache.pkl
+backtest_trades.csv
+backtest_results.png
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
